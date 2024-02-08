@@ -1,2 +1,2 @@
-# Rostro en caricatura
-Este proyecto esta enfocado en que al momento de detección del rostro este se muestre como una caricatura/anime
+# Identificación de expresiones
+Este proyecto esta enfocado en que el código identifique a la persona y muestre como resultados las expresiones faciales que esta realizando la persona
