@@ -1,2 +1,2 @@
 # Identificación de expresiones
-Este proyecto esta enfocado en que el código identifique a la persona y muestre como resultados las expresiones faciales que esta realizando la persona
+Este proyecto esta enfocado en que el código identifique las expresiones que se muestran en la imagen
