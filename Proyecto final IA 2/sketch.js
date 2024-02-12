@@ -13,7 +13,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(200, 200);
+  createCanvas(521, 745);
   img.resize(width, height);
 
   faceapi = ml5.faceApi(detectionOptions, modelReady);
